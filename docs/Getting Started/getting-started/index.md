@@ -2,47 +2,77 @@
 title: Welcome to Medical Insights
 hidden: false
 ---
-<Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
+<br />
+
+# Welcome to Medical Insights 👋
+
+**Honest, research-backed guides to healthcare decisions**
+
+Let's be real: finding trustworthy medical information online is hard. You're drowning in marketing, TikTok myths, and conflicting advice from people who aren't doctors.
+
+Medical Insights cuts through the noise. We read the actual research studies, analyze clinical trials, and translate medical jargon into plain English—so you can make informed decisions about your health.
+
+<Cards>
+  <Card kind="tile" title="Start Here" href="#why-medical-insights" icon="fa-duotone fa-map-location-dot">
+    New to our guides?
+  </Card>
+
+  <Card kind="tile" title="Latest Research" href="#latest-articles" icon="fa-duotone fa-flask">
+    What we're covering now
+  </Card>
+
+  <Card kind="tile" title="How We Work" href="#our-process" icon="fa-duotone fa-microscope">
+    Our editorial approach
+  </Card>
+</Cards>
+
+***
+
+## Why Medical Insights?
+
+<Callout icon="📊" theme="default">
+  ### The Problem
+
+  73% of Americans search for health information online, but most sources are either trying to sell you something or spreading misinformation for clicks.
 </Callout>
 
-<Cards>
-  {/* Edit the props below to customize these components */}
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+**What makes us different:**
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+* **No marketing BS** — We're not selling pills. We're explaining options.
+* **Evidence-first** — Every claim is backed by published research (2024-2026)
+* **Honest trade-offs** — We discuss what works, what doesn't, and what the risks are
+* **Regular updates** — Medicine evolves. Our content does too.
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
-</Cards>
+***
 
-<br />
+## Latest Articles
 
-## Recent Releases
+📝 [**Erectile Dysfunction in 2026**](https://medical-insights.readme.io/docs/erectile-dysfunction-in-2026-why-sildenafil-is-no-longer-king-and-what-actually-works)  
+Why Sildenafil is no longer king, and what alternatives really work
 
-<Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+***
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+## Our Process
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
-</Cards>
+Every Medical Insights guide follows this approach:
 
-<br />
+1. **Research** — We review peer-reviewed studies, FDA communications, WHO guidelines, and clinical trial data
+2. **Synthesize** — We identify consensus, controversies, and knowledge gaps
+3. **Translate** — We convert medical jargon into clear, actionable information
+4. **Verify** — We cite sources and acknowledge limitations
+5. **Update** — We revise content as new research emerges
 
-## The Basics
+> ⚠️ Important Disclaimer
+>
+> This content is for informational purposes only. It is not medical advice and should not replace consultation with a qualified healthcare provider. Always discuss treatment options with your doctor.
 
-<Cards>
-  <Card kind="tile" title="Customize" href="#" icon="fa-duotone fa-brush">Style the widget to match your brand</Card>
+***
 
-  <Card kind="tile" title="Integrations" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Connect with third-party services</Card>
+## Coming Soon
 
-  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Manage resources from your terminal</Card>
+* Antibiotic resistance: What you need to know in 2026
+* Birth control options: A comprehensive comparison
+* Blood pressure medications: Finding the right fit
+* And more...
 
-  <Card kind="tile" title="Security" href="" icon="fa-duotone fa-shield-dog">Learn how we secure your data</Card>
-
-  <Card kind="tile" title="Common Issues" href="" icon="fa-duotone fa-file-circle-info">Troubleshoot common issues</Card>
-
-  <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
-</Cards>
-
-<br />
+**Have a topic request?** Let us know what you'd like us to research next.
