@@ -2,6 +2,12 @@
 title: Welcome to Medical Insights
 excerpt: Honest, research-backed guides to healthcare decisions
 hidden: false
+next:
+  description: >-
+    📝 [**Erectile Dysfunction in
+    2026**](https://medical-insights.readme.io/docs/erectile-dysfunction-in-2026-why-sildenafil-is-no-longer-king-and-what-actually-works)  
+
+    Why Sildenafil is no longer king, and what alternatives really work
 ---
 Let's be real: finding trustworthy medical information online is hard. You're drowning in marketing, TikTok myths, and conflicting advice from people who aren't doctors.
 
