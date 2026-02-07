@@ -1,13 +1,8 @@
 ---
 title: Welcome to Medical Insights
+excerpt: Honest, research-backed guides to healthcare decisions
 hidden: false
 ---
-<br />
-
-# Welcome to Medical Insights 👋
-
-**Honest, research-backed guides to healthcare decisions**
-
 Let's be real: finding trustworthy medical information online is hard. You're drowning in marketing, TikTok myths, and conflicting advice from people who aren't doctors.
 
 Medical Insights cuts through the noise. We read the actual research studies, analyze clinical trials, and translate medical jargon into plain English—so you can make informed decisions about your health.
